@@ -18,7 +18,7 @@ export default function Home() {
             (
                  <div class="col-md-4 col-sm-6 content-card">
                 <div class="card-big-shadow">
-                    <div class="card card-just-text" data-background="color" data-color="orange" data-radius="none">
+                    <div class="card card-just-text" data-background="color" data-color="orange"  data-radius="none">
                         <div class="content">
                             <h6 class="category text-light" >Some Information :</h6>
                             <h4 class="title mt-3"><a href="#">{post.title}</a></h4>
